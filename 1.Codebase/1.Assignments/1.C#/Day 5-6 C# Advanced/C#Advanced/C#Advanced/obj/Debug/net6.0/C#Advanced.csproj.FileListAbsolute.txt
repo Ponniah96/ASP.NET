@@ -1,0 +1,15 @@
+D:\Learning\5. ASP.Net\1.CodeBase\Assignments\C#\Day 5-6 C# Advanced\C#Advanced\C#Advanced\bin\Debug\net6.0\C#Advanced.exe
+D:\Learning\5. ASP.Net\1.CodeBase\Assignments\C#\Day 5-6 C# Advanced\C#Advanced\C#Advanced\bin\Debug\net6.0\C#Advanced.deps.json
+D:\Learning\5. ASP.Net\1.CodeBase\Assignments\C#\Day 5-6 C# Advanced\C#Advanced\C#Advanced\bin\Debug\net6.0\C#Advanced.runtimeconfig.json
+D:\Learning\5. ASP.Net\1.CodeBase\Assignments\C#\Day 5-6 C# Advanced\C#Advanced\C#Advanced\bin\Debug\net6.0\C#Advanced.dll
+D:\Learning\5. ASP.Net\1.CodeBase\Assignments\C#\Day 5-6 C# Advanced\C#Advanced\C#Advanced\bin\Debug\net6.0\C#Advanced.pdb
+D:\Learning\5. ASP.Net\1.CodeBase\Assignments\C#\Day 5-6 C# Advanced\C#Advanced\C#Advanced\obj\Debug\net6.0\C#Advanced.csproj.AssemblyReference.cache
+D:\Learning\5. ASP.Net\1.CodeBase\Assignments\C#\Day 5-6 C# Advanced\C#Advanced\C#Advanced\obj\Debug\net6.0\C#Advanced.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\5. ASP.Net\1.CodeBase\Assignments\C#\Day 5-6 C# Advanced\C#Advanced\C#Advanced\obj\Debug\net6.0\C#Advanced.AssemblyInfoInputs.cache
+D:\Learning\5. ASP.Net\1.CodeBase\Assignments\C#\Day 5-6 C# Advanced\C#Advanced\C#Advanced\obj\Debug\net6.0\C#Advanced.AssemblyInfo.cs
+D:\Learning\5. ASP.Net\1.CodeBase\Assignments\C#\Day 5-6 C# Advanced\C#Advanced\C#Advanced\obj\Debug\net6.0\C#Advanced.csproj.CoreCompileInputs.cache
+D:\Learning\5. ASP.Net\1.CodeBase\Assignments\C#\Day 5-6 C# Advanced\C#Advanced\C#Advanced\obj\Debug\net6.0\C#Advanced.dll
+D:\Learning\5. ASP.Net\1.CodeBase\Assignments\C#\Day 5-6 C# Advanced\C#Advanced\C#Advanced\obj\Debug\net6.0\refint\C#Advanced.dll
+D:\Learning\5. ASP.Net\1.CodeBase\Assignments\C#\Day 5-6 C# Advanced\C#Advanced\C#Advanced\obj\Debug\net6.0\C#Advanced.pdb
+D:\Learning\5. ASP.Net\1.CodeBase\Assignments\C#\Day 5-6 C# Advanced\C#Advanced\C#Advanced\obj\Debug\net6.0\C#Advanced.genruntimeconfig.cache
+D:\Learning\5. ASP.Net\1.CodeBase\Assignments\C#\Day 5-6 C# Advanced\C#Advanced\C#Advanced\obj\Debug\net6.0\ref\C#Advanced.dll

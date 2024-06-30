@@ -1,0 +1,15 @@
+D:\Learning\5. ASP.Net\1.CodeBase\Enum, Files\MathematicalFormula\MathematicalFormula\bin\Debug\net6.0\MathematicalFormula.exe
+D:\Learning\5. ASP.Net\1.CodeBase\Enum, Files\MathematicalFormula\MathematicalFormula\bin\Debug\net6.0\MathematicalFormula.deps.json
+D:\Learning\5. ASP.Net\1.CodeBase\Enum, Files\MathematicalFormula\MathematicalFormula\bin\Debug\net6.0\MathematicalFormula.runtimeconfig.json
+D:\Learning\5. ASP.Net\1.CodeBase\Enum, Files\MathematicalFormula\MathematicalFormula\bin\Debug\net6.0\MathematicalFormula.dll
+D:\Learning\5. ASP.Net\1.CodeBase\Enum, Files\MathematicalFormula\MathematicalFormula\bin\Debug\net6.0\MathematicalFormula.pdb
+D:\Learning\5. ASP.Net\1.CodeBase\Enum, Files\MathematicalFormula\MathematicalFormula\obj\Debug\net6.0\MathematicalFormula.csproj.AssemblyReference.cache
+D:\Learning\5. ASP.Net\1.CodeBase\Enum, Files\MathematicalFormula\MathematicalFormula\obj\Debug\net6.0\MathematicalFormula.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\5. ASP.Net\1.CodeBase\Enum, Files\MathematicalFormula\MathematicalFormula\obj\Debug\net6.0\MathematicalFormula.AssemblyInfoInputs.cache
+D:\Learning\5. ASP.Net\1.CodeBase\Enum, Files\MathematicalFormula\MathematicalFormula\obj\Debug\net6.0\MathematicalFormula.AssemblyInfo.cs
+D:\Learning\5. ASP.Net\1.CodeBase\Enum, Files\MathematicalFormula\MathematicalFormula\obj\Debug\net6.0\MathematicalFormula.csproj.CoreCompileInputs.cache
+D:\Learning\5. ASP.Net\1.CodeBase\Enum, Files\MathematicalFormula\MathematicalFormula\obj\Debug\net6.0\MathematicalFormula.dll
+D:\Learning\5. ASP.Net\1.CodeBase\Enum, Files\MathematicalFormula\MathematicalFormula\obj\Debug\net6.0\refint\MathematicalFormula.dll
+D:\Learning\5. ASP.Net\1.CodeBase\Enum, Files\MathematicalFormula\MathematicalFormula\obj\Debug\net6.0\MathematicalFormula.pdb
+D:\Learning\5. ASP.Net\1.CodeBase\Enum, Files\MathematicalFormula\MathematicalFormula\obj\Debug\net6.0\MathematicalFormula.genruntimeconfig.cache
+D:\Learning\5. ASP.Net\1.CodeBase\Enum, Files\MathematicalFormula\MathematicalFormula\obj\Debug\net6.0\ref\MathematicalFormula.dll
