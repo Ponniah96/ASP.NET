@@ -1,0 +1,15 @@
+D:\Learning\5. ASP.Net\1.CodeBase\Enum, Files\Enum, Files\Enum, Files\bin\Debug\net6.0\Enum, Files.exe
+D:\Learning\5. ASP.Net\1.CodeBase\Enum, Files\Enum, Files\Enum, Files\bin\Debug\net6.0\Enum, Files.deps.json
+D:\Learning\5. ASP.Net\1.CodeBase\Enum, Files\Enum, Files\Enum, Files\bin\Debug\net6.0\Enum, Files.runtimeconfig.json
+D:\Learning\5. ASP.Net\1.CodeBase\Enum, Files\Enum, Files\Enum, Files\bin\Debug\net6.0\Enum, Files.dll
+D:\Learning\5. ASP.Net\1.CodeBase\Enum, Files\Enum, Files\Enum, Files\bin\Debug\net6.0\Enum, Files.pdb
+D:\Learning\5. ASP.Net\1.CodeBase\Enum, Files\Enum, Files\Enum, Files\obj\Debug\net6.0\Enum, Files.csproj.AssemblyReference.cache
+D:\Learning\5. ASP.Net\1.CodeBase\Enum, Files\Enum, Files\Enum, Files\obj\Debug\net6.0\Enum, Files.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\5. ASP.Net\1.CodeBase\Enum, Files\Enum, Files\Enum, Files\obj\Debug\net6.0\Enum, Files.AssemblyInfoInputs.cache
+D:\Learning\5. ASP.Net\1.CodeBase\Enum, Files\Enum, Files\Enum, Files\obj\Debug\net6.0\Enum, Files.AssemblyInfo.cs
+D:\Learning\5. ASP.Net\1.CodeBase\Enum, Files\Enum, Files\Enum, Files\obj\Debug\net6.0\Enum, Files.csproj.CoreCompileInputs.cache
+D:\Learning\5. ASP.Net\1.CodeBase\Enum, Files\Enum, Files\Enum, Files\obj\Debug\net6.0\Enum, Files.dll
+D:\Learning\5. ASP.Net\1.CodeBase\Enum, Files\Enum, Files\Enum, Files\obj\Debug\net6.0\refint\Enum, Files.dll
+D:\Learning\5. ASP.Net\1.CodeBase\Enum, Files\Enum, Files\Enum, Files\obj\Debug\net6.0\Enum, Files.pdb
+D:\Learning\5. ASP.Net\1.CodeBase\Enum, Files\Enum, Files\Enum, Files\obj\Debug\net6.0\Enum, Files.genruntimeconfig.cache
+D:\Learning\5. ASP.Net\1.CodeBase\Enum, Files\Enum, Files\Enum, Files\obj\Debug\net6.0\ref\Enum, Files.dll

@@ -1,0 +1,15 @@
+D:\Learning\5. ASP.Net\1.CodeBase\Exception\Arithmetic Operations\Arithmetic Operations\bin\Debug\net6.0\Arithmetic Operations.exe
+D:\Learning\5. ASP.Net\1.CodeBase\Exception\Arithmetic Operations\Arithmetic Operations\bin\Debug\net6.0\Arithmetic Operations.deps.json
+D:\Learning\5. ASP.Net\1.CodeBase\Exception\Arithmetic Operations\Arithmetic Operations\bin\Debug\net6.0\Arithmetic Operations.runtimeconfig.json
+D:\Learning\5. ASP.Net\1.CodeBase\Exception\Arithmetic Operations\Arithmetic Operations\bin\Debug\net6.0\Arithmetic Operations.dll
+D:\Learning\5. ASP.Net\1.CodeBase\Exception\Arithmetic Operations\Arithmetic Operations\bin\Debug\net6.0\Arithmetic Operations.pdb
+D:\Learning\5. ASP.Net\1.CodeBase\Exception\Arithmetic Operations\Arithmetic Operations\obj\Debug\net6.0\Arithmetic Operations.csproj.AssemblyReference.cache
+D:\Learning\5. ASP.Net\1.CodeBase\Exception\Arithmetic Operations\Arithmetic Operations\obj\Debug\net6.0\Arithmetic Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\5. ASP.Net\1.CodeBase\Exception\Arithmetic Operations\Arithmetic Operations\obj\Debug\net6.0\Arithmetic Operations.AssemblyInfoInputs.cache
+D:\Learning\5. ASP.Net\1.CodeBase\Exception\Arithmetic Operations\Arithmetic Operations\obj\Debug\net6.0\Arithmetic Operations.AssemblyInfo.cs
+D:\Learning\5. ASP.Net\1.CodeBase\Exception\Arithmetic Operations\Arithmetic Operations\obj\Debug\net6.0\Arithmetic Operations.csproj.CoreCompileInputs.cache
+D:\Learning\5. ASP.Net\1.CodeBase\Exception\Arithmetic Operations\Arithmetic Operations\obj\Debug\net6.0\Arithmetic Operations.dll
+D:\Learning\5. ASP.Net\1.CodeBase\Exception\Arithmetic Operations\Arithmetic Operations\obj\Debug\net6.0\refint\Arithmetic Operations.dll
+D:\Learning\5. ASP.Net\1.CodeBase\Exception\Arithmetic Operations\Arithmetic Operations\obj\Debug\net6.0\Arithmetic Operations.pdb
+D:\Learning\5. ASP.Net\1.CodeBase\Exception\Arithmetic Operations\Arithmetic Operations\obj\Debug\net6.0\Arithmetic Operations.genruntimeconfig.cache
+D:\Learning\5. ASP.Net\1.CodeBase\Exception\Arithmetic Operations\Arithmetic Operations\obj\Debug\net6.0\ref\Arithmetic Operations.dll

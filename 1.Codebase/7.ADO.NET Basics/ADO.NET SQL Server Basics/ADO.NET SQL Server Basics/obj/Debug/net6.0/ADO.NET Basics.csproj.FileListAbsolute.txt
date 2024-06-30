@@ -1,0 +1,22 @@
+D:\Learning\5. ASP.Net\1.CodeBase\ADO.NET Basics\ADO.NET SQL Server Basics\ADO.NET SQL Server Basics\bin\Debug\net6.0\ADO.NET Basics.exe
+D:\Learning\5. ASP.Net\1.CodeBase\ADO.NET Basics\ADO.NET SQL Server Basics\ADO.NET SQL Server Basics\bin\Debug\net6.0\ADO.NET Basics.deps.json
+D:\Learning\5. ASP.Net\1.CodeBase\ADO.NET Basics\ADO.NET SQL Server Basics\ADO.NET SQL Server Basics\bin\Debug\net6.0\ADO.NET Basics.runtimeconfig.json
+D:\Learning\5. ASP.Net\1.CodeBase\ADO.NET Basics\ADO.NET SQL Server Basics\ADO.NET SQL Server Basics\bin\Debug\net6.0\ADO.NET Basics.dll
+D:\Learning\5. ASP.Net\1.CodeBase\ADO.NET Basics\ADO.NET SQL Server Basics\ADO.NET SQL Server Basics\bin\Debug\net6.0\ADO.NET Basics.pdb
+D:\Learning\5. ASP.Net\1.CodeBase\ADO.NET Basics\ADO.NET SQL Server Basics\ADO.NET SQL Server Basics\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Learning\5. ASP.Net\1.CodeBase\ADO.NET Basics\ADO.NET SQL Server Basics\ADO.NET SQL Server Basics\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Learning\5. ASP.Net\1.CodeBase\ADO.NET Basics\ADO.NET SQL Server Basics\ADO.NET SQL Server Basics\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Learning\5. ASP.Net\1.CodeBase\ADO.NET Basics\ADO.NET SQL Server Basics\ADO.NET SQL Server Basics\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Learning\5. ASP.Net\1.CodeBase\ADO.NET Basics\ADO.NET SQL Server Basics\ADO.NET SQL Server Basics\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Learning\5. ASP.Net\1.CodeBase\ADO.NET Basics\ADO.NET SQL Server Basics\ADO.NET SQL Server Basics\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Learning\5. ASP.Net\1.CodeBase\ADO.NET Basics\ADO.NET SQL Server Basics\ADO.NET SQL Server Basics\obj\Debug\net6.0\ADO.NET Basics.csproj.AssemblyReference.cache
+D:\Learning\5. ASP.Net\1.CodeBase\ADO.NET Basics\ADO.NET SQL Server Basics\ADO.NET SQL Server Basics\obj\Debug\net6.0\ADO.NET Basics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\5. ASP.Net\1.CodeBase\ADO.NET Basics\ADO.NET SQL Server Basics\ADO.NET SQL Server Basics\obj\Debug\net6.0\ADO.NET Basics.AssemblyInfoInputs.cache
+D:\Learning\5. ASP.Net\1.CodeBase\ADO.NET Basics\ADO.NET SQL Server Basics\ADO.NET SQL Server Basics\obj\Debug\net6.0\ADO.NET Basics.AssemblyInfo.cs
+D:\Learning\5. ASP.Net\1.CodeBase\ADO.NET Basics\ADO.NET SQL Server Basics\ADO.NET SQL Server Basics\obj\Debug\net6.0\ADO.NET Basics.csproj.CoreCompileInputs.cache
+D:\Learning\5. ASP.Net\1.CodeBase\ADO.NET Basics\ADO.NET SQL Server Basics\ADO.NET SQL Server Basics\obj\Debug\net6.0\ADO.NET Basics.csproj.CopyComplete
+D:\Learning\5. ASP.Net\1.CodeBase\ADO.NET Basics\ADO.NET SQL Server Basics\ADO.NET SQL Server Basics\obj\Debug\net6.0\ADO.NET Basics.dll
+D:\Learning\5. ASP.Net\1.CodeBase\ADO.NET Basics\ADO.NET SQL Server Basics\ADO.NET SQL Server Basics\obj\Debug\net6.0\refint\ADO.NET Basics.dll
+D:\Learning\5. ASP.Net\1.CodeBase\ADO.NET Basics\ADO.NET SQL Server Basics\ADO.NET SQL Server Basics\obj\Debug\net6.0\ADO.NET Basics.pdb
+D:\Learning\5. ASP.Net\1.CodeBase\ADO.NET Basics\ADO.NET SQL Server Basics\ADO.NET SQL Server Basics\obj\Debug\net6.0\ADO.NET Basics.genruntimeconfig.cache
+D:\Learning\5. ASP.Net\1.CodeBase\ADO.NET Basics\ADO.NET SQL Server Basics\ADO.NET SQL Server Basics\obj\Debug\net6.0\ref\ADO.NET Basics.dll

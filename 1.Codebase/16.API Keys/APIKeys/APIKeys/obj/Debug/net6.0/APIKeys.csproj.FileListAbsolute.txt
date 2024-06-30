@@ -1,0 +1,15 @@
+D:\Learning\5. ASP.Net\1.CodeBase\16.API Keys\APIKeys\APIKeys\bin\Debug\net6.0\APIKeys.exe
+D:\Learning\5. ASP.Net\1.CodeBase\16.API Keys\APIKeys\APIKeys\bin\Debug\net6.0\APIKeys.deps.json
+D:\Learning\5. ASP.Net\1.CodeBase\16.API Keys\APIKeys\APIKeys\bin\Debug\net6.0\APIKeys.runtimeconfig.json
+D:\Learning\5. ASP.Net\1.CodeBase\16.API Keys\APIKeys\APIKeys\bin\Debug\net6.0\APIKeys.dll
+D:\Learning\5. ASP.Net\1.CodeBase\16.API Keys\APIKeys\APIKeys\bin\Debug\net6.0\APIKeys.pdb
+D:\Learning\5. ASP.Net\1.CodeBase\16.API Keys\APIKeys\APIKeys\obj\Debug\net6.0\APIKeys.csproj.AssemblyReference.cache
+D:\Learning\5. ASP.Net\1.CodeBase\16.API Keys\APIKeys\APIKeys\obj\Debug\net6.0\APIKeys.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\5. ASP.Net\1.CodeBase\16.API Keys\APIKeys\APIKeys\obj\Debug\net6.0\APIKeys.AssemblyInfoInputs.cache
+D:\Learning\5. ASP.Net\1.CodeBase\16.API Keys\APIKeys\APIKeys\obj\Debug\net6.0\APIKeys.AssemblyInfo.cs
+D:\Learning\5. ASP.Net\1.CodeBase\16.API Keys\APIKeys\APIKeys\obj\Debug\net6.0\APIKeys.csproj.CoreCompileInputs.cache
+D:\Learning\5. ASP.Net\1.CodeBase\16.API Keys\APIKeys\APIKeys\obj\Debug\net6.0\APIKeys.dll
+D:\Learning\5. ASP.Net\1.CodeBase\16.API Keys\APIKeys\APIKeys\obj\Debug\net6.0\refint\APIKeys.dll
+D:\Learning\5. ASP.Net\1.CodeBase\16.API Keys\APIKeys\APIKeys\obj\Debug\net6.0\APIKeys.pdb
+D:\Learning\5. ASP.Net\1.CodeBase\16.API Keys\APIKeys\APIKeys\obj\Debug\net6.0\APIKeys.genruntimeconfig.cache
+D:\Learning\5. ASP.Net\1.CodeBase\16.API Keys\APIKeys\APIKeys\obj\Debug\net6.0\ref\APIKeys.dll
